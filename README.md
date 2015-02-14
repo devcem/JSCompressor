@@ -11,7 +11,10 @@ And program will apply difference for all bytes, output will be like that :
 ```
 Output : 0, 3, 5, 0, 1, 5, 1
 ```
+Bit architecture >
+```
 |HEAD|BT|BT|BT|BT|
 -----------------
 |0000|00|00|00|00|
 -----------------
+```
